@@ -2,7 +2,7 @@
 
 This repository contains your third problem set for Data Science I: Foundations. You will be working with some electoral data! 
 
-**Deadline:** 11:59pm of October 27
+**Deadline:** 11:59pm of October 25
 
 ## General Rules for Problem Sets
 
@@ -41,7 +41,7 @@ This will create a folder in your local working directory. This folder is a loca
 
 ### Step 2
 
-Your problem set is fully described in the notebook `_ps_set2.ipynb`. 
+Your problem set is fully described in the notebook `_ps_set3.ipynb`. 
 
 You can open `ipynb` using jupyter notebooks. 
 
